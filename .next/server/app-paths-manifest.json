@@ -1,0 +1,9 @@
+{
+  "/services/page": "app/services/page.js",
+  "/account/page": "app/account/page.js",
+  "/alerts/page": "app/alerts/page.js",
+  "/predict-disaster/page": "app/predict-disaster/page.js",
+  "/resources/page": "app/resources/page.js",
+  "/resources/[type]/page": "app/resources/[type]/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
